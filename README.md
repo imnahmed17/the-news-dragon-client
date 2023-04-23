@@ -11,3 +11,5 @@ Icon -> [react-icons](https://react-icons.github.io/react-icons/)
 Time Format -> [Moment.js](https://momentjs.com/)
 
 Sliding Text -> [React FAST Marquee](https://www.react-fast-marquee.com/documentation)
+
+Rating -> [react-rating](https://www.npmjs.com/package/react-rating)
