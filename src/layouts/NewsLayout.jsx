@@ -4,8 +4,11 @@ import Footer from '../pages/Shared/Footer/Footer';
 import { Col, Container, Row } from 'react-bootstrap';
 import RightNav from '../pages/Shared/RightNav/RightNav';
 import { Outlet } from 'react-router-dom';
+import useTitle from '../hooks/useTitle';
 
 const NewsLayout = () => {
+    useTitle('News Details');
+
     return (
         <div>
             <Header />
